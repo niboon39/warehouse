@@ -1,0 +1,12 @@
+﻿Create Harbor “Kitkat”
+Create Airport “Oreo”
+Create Train_Station “Dio”
+Create Warehouse “Jotaro” (10, 1000)
+Create Warehouse “Nani” (20, 200)	
+Set_path Oreo Kitkat 10
+Set_path Oreo Dio 20
+Set_path Dio Jotaro 30	
+Set_path Jotaro Nani 40
+Create_item “yolo” (9, 50, 50) 	
+Order 1:
+Import 10 yolo from Vietnam to Jotaro
