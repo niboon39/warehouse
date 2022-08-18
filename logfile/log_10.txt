@@ -1,0 +1,17 @@
+Order 1:
+Process: 2
+Success: 0
+Fail: 2
+Jotaro (0/100): []
+Nani (0/200): []
+
+Summary:
+Jotaro (0/100): []
+Nani (0/200): []
+roller has traveled 0 km.
+Kitkat has imported 0 items: []
+Kitkat has exported 0 items: []
+Oreo has imported 0 items: []
+Oreo has exported 0 items: []
+Dio has imported 0 items: []
+Dio has exported 0 items: []

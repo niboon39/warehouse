@@ -1,0 +1,35 @@
+﻿Create Harbor “Kitkat”
+Create Airport “Oreo”
+Create Airport “Summoner rift”
+Create Airport “Omae wa mo shindeiru”
+Create Train_Station “Dio”
+Create Warehouse “Jotaro” (10, 1000)
+Create Warehouse “Teemo” (22.5, 200)	
+Create Warehouse “Nani” (30.5, 200)
+Create Truck “road da roller” (0, 500)
+Create Truck “not ten but eight” (501, 5000)	
+Set_path Kitkat Oreo 10.5
+Set_path Oreo Summoner rift 20
+Set_path Oreo Dio 30
+Set_path Jotaro Dio 40.5
+Set_path Teemo Dio 50	
+Set_path Kitkat Omae wa mo shindeiru 60.5
+Set_path Omae wa mo shindeiru Nani 70
+Create_item “yolo” (9, 50.5, 11.5) 	
+Create_item “mushroom” (10.5, 23, 22.5)
+Create_item “KFC chicken” (6, 50.5, 23)
+Order 1:
+Import 10 mushroom from Wakanda to Teemo
+Import 5 yolo from Germany to Jotaro
+Import 100 KFC chicken from USSR to Teemo
+Order 2: 
+Import 150 KFC chicken from Argentina to Teemo X
+Export 2 yolo from Jotaro to USA
+Transfer 5 mushroom from Teemo to Jotaro
+order 22:
+Import 30 KFC chicken from Brazil to Teemo
+Transfer 1 KFC chicken from Teemo to Jotaro
+order 49:
+Transfer 70 KFC chicken from Teemo to Jotaro
+Export 100 mushroom from Jotaro to Wakanda X
+Export 10 KFC chicken from Teemo to China 

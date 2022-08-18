@@ -1,0 +1,18 @@
+Order 1:
+Process: 1
+Success: 1
+Fail: 0
+Jotaro (10/1000): [yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo]
+Nani (0/200): []
+
+Summary:
+Jotaro (10/1000): [yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo]
+Nani (0/200): []
+roller has traveled 50 km.
+god has traveled 0 km.
+Kitkat has imported 0 items: []
+Kitkat has exported 0 items: []
+Oreo has imported 0 items: []
+Oreo has exported 0 items: []
+Dio has imported 10 items: [yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo, yolo]
+Dio has exported 0 items: []

@@ -1,0 +1,12 @@
+Order 1:
+Reject
+
+Summary:
+Jotaro (0/1000): []
+Nani (0/200): []
+Kitkat has imported 0 items: []
+Kitkat has exported 0 items: []
+Oreo has imported 0 items: []
+Oreo has exported 0 items: []
+Dio has imported 0 items: []
+Dio has exported 0 items: []

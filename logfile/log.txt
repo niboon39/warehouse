@@ -1,0 +1,15 @@
+Order 1:
+Process: 1
+Success: 1
+Fail: 0
+Jotaro (3/100): [yolo, yolo, yolo]
+
+Summary:
+Jotaro (3/100): [yolo, yolo, yolo]
+roller has traveled 50 km.
+Kitkat has imported 0 items: []
+Kitkat has exported 0 items: []
+Oreo has imported 0 items: []
+Oreo has exported 0 items: []
+Dio has imported 3 items: [yolo, yolo, yolo]
+Dio has exported 0 items: []
